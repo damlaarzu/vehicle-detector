@@ -1,0 +1,6 @@
+path: datasets/visdrone
+train: images/train
+val: images/val
+test: images/val   # opsiyonel, yoksa val kullan
+nc: 10
+names: ["pedestrian","people","bicycle","car","van","truck","tricycle","awning-tricycle","bus","motor"]

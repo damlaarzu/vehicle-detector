@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Sanal ortam
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+Thumbs.db
+.DS_Store
+
+# YOLO / eğitim çıktıları (isteğe bağlı: best.pt'yi paylaşacaksan bu satırı kaldır)
+projects/**/weights/
+runs/
+*.log
+
+# Model ağırlıkları (GitHub 100 MB limiti — Git LFS veya Releases kullan)
+*.pt
+
+# VisDrone ham veri (resmi siteden indirilir)
+VisDrone2019-DET-*/
+VisDrone2019-VID-*/
+
+# Birleştirilmiş / eğitim görselleri (çok büyük — LFS veya harici depolama)
+datasets/visdrone/images/
+datasets/visdrone/labels/
+
+# Geçici dosyalar
+*.tmp
+temp/
