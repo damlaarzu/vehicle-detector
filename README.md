@@ -1,1 +1,1 @@
-# vehicle-detector
+# vehicle-detector-yolo-11
