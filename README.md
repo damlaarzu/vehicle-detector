@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vehicle Detector (YOLO11 + VisDrone)
 
 VisDrone veri seti üzerinde eğitilmiş **YOLO11** modeli ile hava/drone görüntülerinde nesne tespiti yapan proje. **Streamlit** web arayüzü üzerinden fotoğraf, video ve canlı kamera ile tespit yapılabilir.
@@ -160,3 +161,6 @@ Kimlik doğrulama: **Personal Access Token** (HTTPS) veya **SSH anahtarı** gere
 ## Katkı
 
 Issue ve pull request ile katkıda bulunabilirsiniz.
+=======
+# vehicle-detector-yolo-11
+>>>>>>> c32f46486784cd871c14a1fc66645ddd698bf332
